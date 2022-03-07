@@ -4,4 +4,4 @@
 #   CLicking on the link "click here to proceed" will take to the github login -
 #   once the valid credentials are entered, the userlands in hte page with two links click to view Activity and Click to view Repository
 #   Once clicked - the click to view text will be hidden. For sample purpose have picked few of the data from the response and shown
-#
+#   the app.js can be added to teh existing react repo and tested
